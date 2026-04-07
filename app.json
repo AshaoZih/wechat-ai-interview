@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/interview/interview",
+    "pages/result/result",
+    "pages/my/my"
+  ],
+  "window": {
+    "navigationBarTitleText": "AI智能面试官"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/interview/interview",
+        "text": "面试"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的"
+      }
+    ]
+  }
+}
