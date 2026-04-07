@@ -1,0 +1,5 @@
+<view class="container">
+  <text>面试题目：{{question}}</text>
+  <textarea placeholder="你的回答..." bindinput="onAnswerInput" value="{{userAnswer}}"/>
+  <button>提交答案</button>
+</view>
