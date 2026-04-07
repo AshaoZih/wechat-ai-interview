@@ -1,0 +1,5 @@
+<view class="container">
+  <text>得分：{{score}}</text>
+  <text>AI反馈：{{feedback}}</text>
+  <button>返回首页</button>
+</view>
