@@ -1,3 +1,6 @@
-{
-  "navigationBarTitleText": "我的"
-}
+Page({
+  data: {
+    userInfo: null
+  },
+  onLoad() {}
+});
