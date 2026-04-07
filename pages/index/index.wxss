@@ -1,0 +1,4 @@
+<view class="container">
+  <text>{{welcome}}</text>
+  <button bindtap="goInterview">开始面试</button>
+</view>
